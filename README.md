@@ -1,5 +1,8 @@
 ## crypt up
 
+### Why
+sometimes it's nice to have access to quick easy AES encryption for files
+
 ### Installation
 run `make`
 
