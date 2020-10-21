@@ -1,7 +1,7 @@
 
 .PHONY: help
 help:
-	-@echo "=======================crypt Make file!======================="
+	-@echo "====================== crypt Make file! ======================"
 	-@echo "Commands:"
 	-@echo "        make help                    (print this help message)"
 	-@echo "        make install                   (compile and install to"
@@ -13,4 +13,6 @@ help:
 .PHONY: install
 install:
 	bash ./make.sh install
+.PHONY: install
+uninstall:
 	bash ./make.sh uninstall
