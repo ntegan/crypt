@@ -3,6 +3,9 @@
 ### Why
 sometimes it's nice to have access to quick easy AES encryption for files
 
+[clone + make](https://streamable.com/lunq7m)  
+[usage/example](https://streamable.com/5gu5vb)
+
 ### Installation
 run `make`
 
